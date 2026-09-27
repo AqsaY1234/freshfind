@@ -1,0 +1,36 @@
+[
+  {
+    "id": "greet",
+    "text": "Hi there! Ask a question or pick a quick reply.",
+    "options": ["Find a Market", "What's in season?", "Open now?", "Contact"]
+  },
+  {
+    "id": "Find a Market",
+    "text": "Open the Market Directory to filter by area, day, or produce.",
+    "links": [{ "to": "/markets", "label": "Go to Find Markets" }],
+    "options": ["What's in season?", "Open now?", "No, thanks"]
+  },
+  {
+    "id": "What's in season?",
+    "text": "This week's seasonal picks include tomatoes, spinach, and strawberries. Browse the full Produce Guide for seasons and markets.",
+    "links": [{ "to": "/produce", "label": "Open Produce Guide" }],
+    "options": ["Find a Market", "No, thanks"]
+  },
+  {
+    "id": "Open now?",
+    "text": "Markets marked Open Now use today's day plus opening and closing hours. Check the directory or a market detail page.",
+    "links": [{ "to": "/markets", "label": "See market hours" }],
+    "options": ["Find a Market", "No, thanks"]
+  },
+  {
+    "id": "Contact",
+    "text": "You can reach the team from the Contact page. A live map appears if you allow location access.",
+    "links": [{ "to": "/contact", "label": "Contact Us" }],
+    "options": ["Find a Market", "No, thanks"]
+  },
+  {
+    "id": "No, thanks",
+    "text": "Alright! Type another question anytime.",
+    "options": ["Find a Market", "What's in season?"]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "description": "Juicy and ripe local tomatoes perfect for salads and sauces.",
+    "season": "Summer",
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=500&q=80",
+    "marketsAvailable": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Apples",
+    "category": "Fruits",
+    "description": "Crisp and sweet apples from local orchards.",
+    "season": "Fall",
+    "image": "/assets/images/apples.jpg",
+    "marketsAvailable": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fresh Basil",
+    "category": "Herbs",
+    "description": "Aromatic fresh basil, great for pesto or garnishes.",
+    "season": "Summer",
+    "image": "/assets/images/basil.jpg",
+    "marketsAvailable": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Artisan Cheese",
+    "category": "Dairy",
+    "description": "Handcrafted cheeses from local dairy farms.",
+    "season": "All Year",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=500&q=80",
+    "marketsAvailable": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Carrots",
+    "category": "Vegetables",
+    "description": "Crunchy, sweet, freshly pulled carrots.",
+    "season": "Fall",
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=500&q=80",
+    "marketsAvailable": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Strawberries",
+    "category": "Fruits",
+    "description": "Sweet, vibrant red strawberries freshly picked.",
+    "season": "Spring",
+    "image": "/assets/images/Strawberries.jpg",
+    "marketsAvailable": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Potatoes",
+    "category": "Vegetables",
+    "description": "Fresh locally grown potatoes, great for roasting or mashing.",
+    "season": "All Year",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=500&q=80",
+    "marketsAvailable": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Oranges",
+    "category": "Fruits",
+    "description": "Bright and juicy oranges full of vitamin C.",
+    "season": "Winter",
+    "image": "https://images.unsplash.com/photo-1547514701-42782101795e?w=500&q=80",
+    "marketsAvailable": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Honey",
+    "category": "Other",
+    "description": "Pure raw honey from local beekeepers.",
+    "season": "All Year",
+    "image": "/assets/images/honey.jpg",
+    "marketsAvailable": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mint",
+    "category": "Herbs",
+    "description": "Fresh garden mint leaves, great for teas and salads.",
+    "season": "Spring",
+    "image": "https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=500&q=80",
+    "marketsAvailable": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Farm Eggs",
+    "category": "Dairy",
+    "description": "Free-range eggs from local family farms.",
+    "season": "All Year",
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=500&q=80",
+    "marketsAvailable": [
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Spinach",
+    "category": "Vegetables",
+    "description": "Tender fresh spinach leaves, rich in iron and nutrients.",
+    "season": "Spring",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=500&q=80",
+    "marketsAvailable": [
+      2,
+      3,
+      5
+    ]
+  }
+]
