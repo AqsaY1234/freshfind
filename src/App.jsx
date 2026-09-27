@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import VisitorBar from './components/VisitorBar'
-import Topbar from './components/Topbar'
-import Bottom from './components/Bottom'
+import Topbar from './components/topbar'
+import Bottom from './components/bottom'
 import MainPage from './pages/MainPage'
 import MarketsList from './pages/MarketsList'
 import Details from './pages/Details'
@@ -12,7 +12,8 @@ import AboutUs from './pages/AboutUs'
 import ContactUs from './pages/ContactUs'
 import Login from './pages/Login'
 import Signup from './pages/Signup'
-import Bot from './components/Bot'
+import Bot from './components/bot'
+
 
 function AnimatedRoutes() {
   const location = useLocation()
